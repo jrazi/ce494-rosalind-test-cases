@@ -1,0 +1,12 @@
+# There are multiple alignments that result in the same maximum score for this problem.
+
+-3
+---PAWHEA
+HEAGAWGHE
+
+
+-3
+P---AWHEA
+HEAGAWGHE
+
+

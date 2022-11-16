@@ -1,0 +1,8 @@
+>Rosalind_7917
+TTGTTC
+>Rosalind_0103
+ACCT
+>Rosalind_9204
+GATCT
+>Rosalind_2312
+CATTC
